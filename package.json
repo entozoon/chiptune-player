@@ -9,8 +9,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "chiptune2-temp": "^1.0.0",
-        "jsxm": "git+https://github.com/a1k0n/jsxm.git",
-        "protracker": "0.0.2"
+        "jsxm": "git+https://github.com/a1k0n/jsxm.git"
     }
 }
